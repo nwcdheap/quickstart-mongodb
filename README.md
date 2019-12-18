@@ -1,3 +1,8 @@
+# 免责说明
+建议测试过程中使用此方案，生产环境使用请自行考虑评估。
+当您对方案需要进一步的沟通和反馈后，可以联系 [nwcd_labs@nwcdcloud.cn](nwcd_labs@nwcdcloud.cn) 获得更进一步的支持。
+欢迎联系参与方案共建和提交方案需求, 也欢迎在 github 项目issue中留言反馈bugs。
+
 # quickstart-mongodb
 
 **如果您使用的是 AWS Global Region, 请移步至[MongoDB on the AWS Cloud: Quick Start Reference Deployment](https://docs.aws.amazon.com/quickstart/latest/mongodb/welcome.html);
